@@ -39,6 +39,7 @@
 - KNUTE
 - FreeCodeCamp
 - Udemy courses 
+- Coursera courses
 
 ### English:
 * Advanced level 
